@@ -92,7 +92,7 @@ Popular use cases:
 
 Each workflow can contain multiple blocks, this blocks can be:
 
-- Trigger (Can be set in crontab or regular format)
+- Trigger (Can be set in crontab or regular format, or webhook event)
 - Query (from supported data source (API, DB, files, etc.))
 - Code block (Python, JS(only JS currently support libraries))
 
