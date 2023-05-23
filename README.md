@@ -128,12 +128,19 @@ There is 4 tiers available:
   - App-level permissions
   - Unlimited environments
   - Unlimited modules
+- Enterprise
+  - Everything in Business, plus
+  - SAML / OpenID Connect SSO
+  - Source control
+  - Multi-instance deployments
+  - Custom branding
+  - Dedicated support
 
 Considering this include hosting, unlimited workflows runs, unlimited apps, having all in one tool for all your internal apps and automation tasks via workflows seems reasonable
 
 There is couple of alternatives when it comes to separate features:
 
-- Dashboards/Data Vizualization/Reports can be managed by redash
+- Dashboards/Data Visualization/Reports can be managed by redash
 - Automation of workflows can be managed by automatisch
 
 With all this features, and positive sides this tool can only be used for internal apps, it cannot be used for providing solutions for client
